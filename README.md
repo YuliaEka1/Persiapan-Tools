@@ -6,7 +6,7 @@
 4. Yulia Eka Ardhani
 
 ## 1. HASIL TEST CASE LOGIN UJIAN JTI POLINEMA
-![EMPTY ACTIVITY](hasil/)
+![EMPTY ACTIVITY](hasil/ujianjti.jpg)
 
 ## 2. HASIL TEST CASE SEARCH DI KBBI
 ![EMPTY ACTIVITY](hasil/kbbi.jpg)
